@@ -3,7 +3,7 @@
 A simple and easy-to-use Blackjack game plugin for PocketMine-MP servers.
 
 ## Features
-- Play classic Blackjack with your friends
+- Play classic Blackjack in MCPE
 - Integrate with BedrockEconomy for betting
 - User-friendly inventory menu interface
 - Double down option
@@ -15,7 +15,7 @@ A simple and easy-to-use Blackjack game plugin for PocketMine-MP servers.
 - InvMenu (for the inventory menu interface)
 
 ## Installation
-1. Download the plugin jar file
+1. Download the plugin files and devtools
 2. Place it in your server's plugins folder
 3. Restart your server
 4. The plugin will create its configuration files automatically
