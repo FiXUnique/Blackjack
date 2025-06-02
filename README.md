@@ -12,7 +12,7 @@ A simple and easy-to-use Blackjack game plugin for PocketMine-MP servers.
 
 ## Dependencies
 - BedrockEconomy (for economy integration)
-- InvMenu (for the inventory menu interface)
+- InvMenu by muqsit (for the inventory menu interface)
 
 ## Installation
 1. Download the plugin files and devtools
