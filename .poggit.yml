@@ -5,7 +5,7 @@ branches:
 projects:
   Blackjack:
     path: .
-    main: src/FixStudios/Blackjack/Main
+    main: src/FixStudios/Blackjack/BlackjackPlugin
     name: Blackjack
     apiversion: 4
     version: 1.0.0
