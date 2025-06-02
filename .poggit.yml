@@ -9,7 +9,10 @@ projects:
     name: Blackjack
     apiversion: 4
     version: 1.0.0
-    dependencies: [BedrockEconomy, InvMenu]
+    dependencies: ["BedrockEconomy", "InvMenu"]
+    external-dependencies:
+      BedrockEconomy: 1.0.0
+      InvMenu: 1.0.0
     license: MIT
     description: A fun Blackjack game for PocketMine-MP
     author: FiXUnique
