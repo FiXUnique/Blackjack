@@ -1,0 +1,15 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/FiXUnique/Blackjack
+build-by-default: true
+branches:
+- main
+projects:
+  Blackjack:
+    path: .
+    main: src/FixStudios/Blackjack/Main
+    name: Blackjack
+    apiversion: 4
+    version: 1.0.0
+    dependencies: [BedrockEconomy, InvMenu]
+    license: MIT
+    description: A fun Blackjack game for PocketMine-MP
+    author: FiXUnique
