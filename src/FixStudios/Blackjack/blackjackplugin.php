@@ -108,7 +108,7 @@ class Main extends PluginBase implements Listener {
             $restartItem = match ($game["lastWon"]) {
                 true => VanillaItems::EMERALD()->setCustomName("§aRestart"),
                 false => VanillaItems::REDSTONE_DUST()->setCustomName("§cRestart"),
-                default => VanillaItems::GOLD_BLOCK()->setCustomName("§eDraw - Restart"),
+                default => VanillaItems::PAPER()->setCustomName("§eDraw - Restart"),
             };
 
             $inventory->setItem(13, $restartItem);
